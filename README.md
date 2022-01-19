@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm [Sirichai (Boy)](https://nextjs-scg-app.herokuapp.com) 🎉
+
+- 👔 Pronouns: "He" | "His"
+- 🧑🏻‍💻 &nbsp;Programmer,Web Developer,Software Engineer
+- 🌏 Open-source software developer
+- ⚡ Go, PHP, Rust, Nodejs, ...
+
 
 <!--
 **suraboy/suraboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
