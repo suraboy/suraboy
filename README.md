@@ -1,6 +1,5 @@
 ### Hi there, I'm [Sirichai (Boy)](https://nextjs-scg-app.herokuapp.com/resume) 🎉
 
-- 👔 Pronouns: "He" | "His"
 - 🧑🏻‍💻 &nbsp;Programmer,Web Developer,Software Engineer
 - 🌏 Open-source software developer
 - ⚡ Go, PHP, Rust, Nodejs, ...
