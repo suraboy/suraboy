@@ -2,7 +2,8 @@
 
 - 🧑🏻‍💻 &nbsp;Programmer,Web Developer,Software Engineer
 - 🌏 Open-source software developer
-- ⚡ Go, PHP, Rust, Nodejs, ...
+- ⚡ Backend : Go [echo,fiber], PHP [laravel,lumen,phpci], Rust [Rocket], Nodejs [expressjs,nestjs], ...
+- ⚡ Frontend : Vuejs [nuxtjs] and Reactjs [nextjs]
 
 
 <!--
