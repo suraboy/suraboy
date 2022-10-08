@@ -1,6 +1,6 @@
 ### Hi there, I'm [Sirichai (Boy)](https://nextjs-scg-app.herokuapp.com/resume) 🎉
 
-- 🧑🏻‍💻 &nbsp;Programmer,Web Developer,Software Engineer
+- 🧑🏻‍💻 &nbsp; Programmer , Web Developer , Software Engineer , Full Stack Engineer
 - 🌏 Open-source software developer
 - ⚡ Backend :
   * Golang : Echo and Fiber.
