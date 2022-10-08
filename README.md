@@ -2,8 +2,16 @@
 
 - 🧑🏻‍💻 &nbsp;Programmer,Web Developer,Software Engineer
 - 🌏 Open-source software developer
-- ⚡ Backend : Go [ echo,fiber ], PHP [ laravel ,lumen , phpci ], Rust [ Rocket ], Nodejs [ expressjs , nestjs ], ...
-- ⚡ Frontend : Vuejs [ nuxtjs ] and Reactjs [ nextjs ]
+- ⚡ Backend :
+  * Golang : Echo and Fiber.
+  * PHP : Laravel ,Lumen and Phpci. 
+  * Rust : Rocket.
+  * Nodejs : Expressjs and Nestjs.
+  * Java : Spring-boot
+   
+- ⚡ Frontend :
+  * Vue : Nuxtjs.
+  * React : Nextjs.
 
 
 <!--
