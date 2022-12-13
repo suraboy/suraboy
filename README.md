@@ -7,7 +7,7 @@
   * PHP : Laravel ,Lumen and Phpci. 
   * Rust : Rocket.
   * Nodejs : Expressjs and Nestjs.
-  * Java : Spring-boot
+  * Java : Spring-boot and Kotlin.
    
 - ⚡ Frontend :
   * Vue : Nuxtjs.
